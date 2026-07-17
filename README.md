@@ -151,7 +151,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ### Run the Notebook
 
 ```bash
-git clone https://github.com/Phantom-pyth/week6-feature-engineering-optimization.git
+git clone https://github.com/Phantom-pyth/AnalystLabs_Week_6_projecct.git
 cd week6-feature-engineering-optimization
 jupyter notebook Week6_Feature_Engineering_Optimization.ipynb
 ```
